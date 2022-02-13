@@ -40,4 +40,4 @@ Once you've installed Node.js and MongoDB on your machine, you're ready to proce
 
 ## Contact
 
-Harsh Kedia - [@harshkedia](https://www.linkedin.com/in/hk-2608/) - 2019cse107iiitn@gmail.com
+Harsh Kedia - [@harshkedia](https://www.linkedin.com/in/hk-2608/) - harshkedia600@gmail.com
